@@ -8,4 +8,13 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="enums\" />
+    <Folder Include="models\" />
+    <Folder Include="modelViews\" />
+    <Folder Include="mvvm\" />
+    <Folder Include="src\" />
+    <Folder Include="views\" />
+  </ItemGroup>
+
 </Project>
